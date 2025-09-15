@@ -1,18 +1,3 @@
-# Text Adventure Games!
+# Escape from the Forbidden Corridor (Mini Text Adventure)
 
-This Python notebook builds a simple text advenutre game inspired by the
-[Adventuron Classroom](https://adventuron.io/classroom/) design by Chris
-Ainsley of Adventuron Software Limited.
-
-The main components are:
-1. __The parser__, which interprets the player's commands.
-2. __The game__, which represents world (a collection of __locations__,
-   __items__, and __characters__), and describes what the player sees.
-3. __The data__, which you input to create your own unique game.
-
-For this homework assignment, I have implemented most of a classic text
-adventure game for you.  I marked a few places that you'll need to fill in your
-own code in order to implement ACTION CASTLE!
-
-You can download a PDF of the game from [Parsely: Preview n' Play Edition (this
-contains a free copy the Action Castle game).](http://www.memento-mori.com/pdf/parsely-preview-n-play-edition)
+This tiny game is a Harry Potter–inspired puzzle: you’ve snuck out after curfew and must escaoe the Forbidden Corridor and get back safely. There are three locations and three items, you must unlock a blocked path using a key, put Fluffy to sleep using a potion, and overcoming darkness with Lumos before opening the final trapdoor to escape. I picked this topic because I have always loved Harry Potter and the Hogwarts setting has memorable locations and objects that's fun to play around with in a compact interactive fiction format.

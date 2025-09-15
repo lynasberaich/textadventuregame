@@ -1,0 +1,10 @@
+take key
+unlock door
+go east
+take potion
+take wand
+go west
+use potion on fluffy
+go north
+cast lumos
+open trapdoor
